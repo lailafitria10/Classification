@@ -1,2 +1,2 @@
 # mbaprogram
-MBA program Classification Modelling
+Classification Modelling
